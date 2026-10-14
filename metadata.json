@@ -1,0 +1,6 @@
+{
+  "name": "Gold Baba",
+  "description": "Autonomous XAUUSD M5 Analytical Model with XMM & V9 Kinematic Gold Engine powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
